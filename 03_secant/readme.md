@@ -37,10 +37,10 @@ O método da secante é uma técnica numérica iterativa para encontrar raízes 
 
 ```python
 
-# Exemplo 1: raiz de f(x) = x^2 - 2
+
 import math
 
-
+# Exemplo 1: raiz de f(x) = x^2 - 2
 def f(x):
     return x**2 - 2
 
