@@ -23,8 +23,7 @@ Encontrar raízes é uma tarefa central em análise numérica, física, engenhar
 ## 🧩 Métodos implementados
 - 🔹 **Bissecção** → simples, robusto, porém lento  
 - 🔹 **Newton-Raphson** → rápido, mas depende da derivada e de um bom chute inicial  
-- 🔹 **Secante** → similar ao Newton, mas dispensa a derivada  
-- 🔹 **Ponto Fixo** → útil em algumas situações, mas pode divergir facilmente  
-- 🔹 (Opcional) **PINNs – Physics-Informed Neural Networks** → abordagem moderna baseada em redes neurais  
+- 🔹 **Secante** → similar ao Newton, mas dispensa a derivada 
+- 🔹 **PINNs – Physics-Informed Neural Networks** → abordagem moderna baseada em redes neurais  
 
 ---
